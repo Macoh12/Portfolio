@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+h1 {
+  color:darkviolet;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-size:xx-large;
+}
+
+header {
+  text-align: center;
+  background-color:yellow;
+  margin: 25px 15px;
+  padding: 15px 15px;
+}
+
+footer {
+  text-align: center;
+  background-color:cadetblue;
+  padding: 5px;
+}
+
+/* Set the text in the middle for h2 p ul and ol tags */
+h2, p, ul, ol {
+  text-align: center;
+}
+
+/* Class to center the image */ 
+.center{
+  margin-left:auto;
+  margin-right:auto;
+  width: 50%;
+  display: block;
+}
